@@ -4,9 +4,23 @@ Riot API를 활용한 전적검색 및 승률 분석 서비스입니다.
 ## 개발 배경 및 목적
 <img width="1358" alt="개발목적" src="https://github.com/JiwonKKang/Immersion.gg-Back/assets/128073698/7967ce14-093a-46b8-97be-ac91fd5c5c86">
 
+## 개발 도구
+
+- 프론트 : React
+- 백엔드 : Spring, Redis, Kafka, Docker
+- 클라우드 : Azure VM, Azure Database for MySQL
+- CI/CD : Git Actions, Docker Compose
+- 협업 도구 : Azure DevOps
+
 ## 인프라 구성
 
 ![인프라 구성도 2](https://github.com/JiwonKKang/Immersion.gg-Back/assets/128073698/d352e476-6c50-465b-aeb6-83a46f4c44ce)
+
+- 리액트로 프론트 구성
+- GPTAnalyzer 서비스와 Kafka를 이용한 비동기 통신
+- Riot CDN 이미지 정보 Redis 캐싱
+- 리버스 프록시 서버로 Nginx 구성
+
 
 ## 프로젝트 소개
 
