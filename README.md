@@ -1,7 +1,7 @@
 # Immersion.gg
 Riot API를 활용한 전적검색 및 승률 분석 서비스입니다.
 
-## 개발 배경과 목적
+## 개발 배경 및 목적
 <img width="1358" alt="개발목적" src="https://github.com/JiwonKKang/Immersion.gg-Back/assets/128073698/7967ce14-093a-46b8-97be-ac91fd5c5c86">
 
 ## 인프라 구성
